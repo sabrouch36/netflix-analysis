@@ -204,6 +204,20 @@ Apply forecasting techniques
 
 Deliver executive-level insights
 
+## 📄 Power BI Dashboard (PDF)
+
+A static export of the Power BI dashboard is available for quick review:
+
+➡️ [Download Netflix Power BI Dashboard (PDF)](powerbi/screenshots/netflix_dashboard.pdf)
+
+This PDF provides a snapshot of:
+- Key KPIs
+- Content growth trends
+- Rating distribution
+- Country contribution
+- Forecast insights
+
+
 📈 Dashboard Components
 🔹 KPIs
 
